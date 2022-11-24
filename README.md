@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+```
+           ／＞    フ
+           |  _  _ |
+         ／` ミ＿x ノ
+        /  |       |
+        /   ヽ     ﾉ
+        │   |  |  |
+     ／￣|   |  |  |
+     (￣ヽ＿_ ヽ__)__)
+     ＼二)
+```
 <!--
 **RIGIK93/RIGIK93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
